@@ -32,4 +32,4 @@ Welcome to **WØRKS STUDIO**, a creative studio dedicated to cultural advancemen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SalatMahenoor/WØRKS-STUDIO.git
+   git clone https://github.com/mahenoorsalat/works-website.git
